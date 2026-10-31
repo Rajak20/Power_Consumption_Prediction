@@ -92,7 +92,7 @@ The application will open in your browser, usually at `http://localhost:8501`.
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** [Add your deployed application URL here]
+🔗 **Streamlit App:** https://powerconsumptionprediction-ssvs55u5adq98nh27kfn8s.streamlit.app/
 
 ## 📈 Key Features
 
